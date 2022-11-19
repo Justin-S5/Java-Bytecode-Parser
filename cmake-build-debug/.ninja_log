@@ -1,0 +1,7 @@
+# ninja log v5
+1	283	1668011236926254015	CMakeFiles/Practice.dir/ReadFile/classfile.c.o	7c716f6e7e051165
+283	337	1668011236982146968	Practice	ce279ae5ec11bf79
+1	37	1667709516244439192	CMakeFiles/Practice.dir/main.c.o	b5deab4f8a78823f
+0	36	1668840608202424178	CMakeFiles/Practice.dir/main.c.o	364251857b3e13ab
+1	40	1668840608206728385	CMakeFiles/Practice.dir/ReadFile/classfile.c.o	e96977806c2e4f6b
+40	80	1668840608247404937	Practice	d39e3f930b74b3be
